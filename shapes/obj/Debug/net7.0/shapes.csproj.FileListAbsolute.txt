@@ -1,0 +1,14 @@
+C:\Users\727mo\Dev\base_cs\shapes\bin\Debug\net7.0\shapes.exe
+C:\Users\727mo\Dev\base_cs\shapes\bin\Debug\net7.0\shapes.deps.json
+C:\Users\727mo\Dev\base_cs\shapes\bin\Debug\net7.0\shapes.runtimeconfig.json
+C:\Users\727mo\Dev\base_cs\shapes\bin\Debug\net7.0\shapes.dll
+C:\Users\727mo\Dev\base_cs\shapes\bin\Debug\net7.0\shapes.pdb
+C:\Users\727mo\Dev\base_cs\shapes\obj\Debug\net7.0\shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\727mo\Dev\base_cs\shapes\obj\Debug\net7.0\shapes.AssemblyInfoInputs.cache
+C:\Users\727mo\Dev\base_cs\shapes\obj\Debug\net7.0\shapes.AssemblyInfo.cs
+C:\Users\727mo\Dev\base_cs\shapes\obj\Debug\net7.0\shapes.csproj.CoreCompileInputs.cache
+C:\Users\727mo\Dev\base_cs\shapes\obj\Debug\net7.0\shapes.dll
+C:\Users\727mo\Dev\base_cs\shapes\obj\Debug\net7.0\refint\shapes.dll
+C:\Users\727mo\Dev\base_cs\shapes\obj\Debug\net7.0\shapes.pdb
+C:\Users\727mo\Dev\base_cs\shapes\obj\Debug\net7.0\shapes.genruntimeconfig.cache
+C:\Users\727mo\Dev\base_cs\shapes\obj\Debug\net7.0\ref\shapes.dll
